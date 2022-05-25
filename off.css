@@ -1,0 +1,25 @@
+body {
+    display: block;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.ops {
+    margin-top: 15vh;
+}
+
+h1 {
+    font-size: 60px;
+    color:rgba(8, 8, 8, 0.425) ;
+}
+
+img {
+    width: 25%;
+}
+
+.manutencao {
+   border-radius: 10px;
+    background-color: rgba(8, 8, 8, 0.336);
+    color: white;
+    margin: 50px;
+}
